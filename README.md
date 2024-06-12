@@ -33,40 +33,33 @@ To install the Besu binary, follow [these instructions](https://besu.hyperledger
 
 ## Besu Developers
 
-* [Contributing Guidelines]
+* [Contributing Guidelines](CONTRIBUTING.md)
 * [Coding Conventions](https://wiki.hyperledger.org/display/BESU/Coding+Conventions)
 * [Command Line Interface (CLI) Style Guide](https://wiki.hyperledger.org/display/BESU/Besu+CLI+Style+Guide)
-* [Besu User Documentation] for running and using Besu
-
+* [Besu User Documentation](https://besu.hyperledger.org) for running and using Besu
 
 ### Development
 
-Instructions for how to get started with developing on the Besu codebase. Please also read the
-[wiki](https://wiki.hyperledger.org/display/BESU/Pull+Requests) for more details on how to submit a pull request (PR).  
+Get started with developing on the Besu codebase. For detailed instructions on submitting a pull request (PR), refer to the [wiki](https://wiki.hyperledger.org/display/BESU/Pull+Requests).
 
 * [Checking Out and Building](https://wiki.hyperledger.org/display/BESU/Building+from+source)
 * [Running Developer Builds](https://wiki.hyperledger.org/display/BESU/Building+from+source#running-developer-builds)
 * [Code Coverage](https://wiki.hyperledger.org/display/BESU/Code+coverage)
 * [Logging](https://wiki.hyperledger.org/display/BESU/Logging) or the [Documentation's Logging section](https://besu.hyperledger.org/public-networks/how-to/monitor/logging)
 
-
 ## Release Notes
 
-[Release Notes](CHANGELOG.md)
+You can view the [Release Notes](CHANGELOG.md) for detailed information about updates and changes.
 
-## Special thanks
+## Special Thanks
 
-YourKit for providing us with a free profiler open source license. 
+A special thanks to YourKit for providing us with a free profiler open source license. 
 
-YourKit supports open source projects with innovative and intelligent tools
-for monitoring and profiling Java and .NET applications.
-YourKit is the creator of <a href="https://www.yourkit.com/java/profiler/">YourKit Java Profiler</a>,
-<a href="https://www.yourkit.com/.net/profiler/">YourKit .NET Profiler</a>,
-and <a href="https://www.yourkit.com/youmonitor/">YourKit YouMonitor</a>.
+YourKit supports open source projects with innovative and intelligent tools for monitoring and profiling Java and .NET applications. They are the creators of the [YourKit Java Profiler](https://www.yourkit.com/java/profiler/), [YourKit .NET Profiler](https://www.yourkit.com/.net/profiler/), and [YourKit YouMonitor](https://www.yourkit.com/youmonitor/).
 
 ![YourKit Logo](https://www.yourkit.com/images/yklogo.png)
 
 [Besu Issues]: https://github.com/hyperledger/besu/issues
 [Besu User Documentation]: https://besu.hyperledger.org
 [Besu channel on Hyperledger Discord]: https://discord.gg/hyperledger
-[Contributing Guidelines]: CONTRIBUTING.md
+
